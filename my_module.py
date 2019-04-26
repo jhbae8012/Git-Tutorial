@@ -5,4 +5,4 @@ def sub(a,b)
     reutrn a-b
 
 def mul(a,b)
-    return a*b
+    return a*b # ÁÖ¼®
